@@ -23,6 +23,7 @@ function onPageLoad() {
             count++
         }
     }
+    
     document.getElementById("totalProducts").innerHTML = count;
 }
 
